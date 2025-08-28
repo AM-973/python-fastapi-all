@@ -2,7 +2,7 @@
 
 ## About
 
-This repo contains the solution code for the [Python FastAPI SQLAlchemy Relationships](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/python-fastapi-sqlalchemy-relationships/canvas-landing-pages/fallback.html) Lesson.
+This repo contains the solution code for the [ALL python fastAPI](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/python-fastapi-sqlalchemy-relationships/canvas-landing-pages/fallback.html) Lesson.
 
 ## Getting Started
 
